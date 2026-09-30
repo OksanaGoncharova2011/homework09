@@ -39,8 +39,6 @@ void main() {
     // Распечатываем итоговый массив в квадратных скобках через запятую
     System.out.println(Arrays.toString(arr));
 
-
-
     }
     
 
