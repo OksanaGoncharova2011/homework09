@@ -23,7 +23,7 @@ void main() {
     for (int index = jo.length - 1; index >= 0; index--) {
         System.out.print(jo[index] + " " + "3");
     }
-
+//
     int[] arr = {1, 2, 3};
 
     // Циклом for проходим по каждому элементу массива от 0 до конца
