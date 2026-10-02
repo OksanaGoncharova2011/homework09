@@ -28,7 +28,6 @@ void main() {
         if (index < weight.length - 1) {
             System.out.print(", "); // ставим запятую, только если элемент не последний
         }
-
     }
     System.out.println(); // Перенос строки
 
