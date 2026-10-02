@@ -40,7 +40,6 @@ void main() {
     }
     System.out.println();
 
-
     // Третий массив
     for (int index = 0; index < jonn.length; index++) {
         System.out.print(jonn[index]);
